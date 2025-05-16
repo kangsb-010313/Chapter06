@@ -21,6 +21,8 @@ public class Server {
 		
 		
 		//bind(바인드) 	//ip 192.168.0.27  	port 10001(port 주소는 정한 것)
+		//mac --> 집 wifi 연결 시 IP주소 172.30.1.98
+		//mac --> 핫스팟 연결 시 IP주소 192.0.0.2
 		
 		/* 굳이 2줄 표현 할 필요가 없음
 		InetSocketAddress ipport = new InetSocketAddress("192.168.0.27", 10001);
